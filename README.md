@@ -27,3 +27,5 @@ will elaborate on any phrases that are inherited from `Student`.
 - Write a method in the `ChattyStudent` class, `raise_hand`, that uses the
   `super` keyword ten times so that the method will `puts` out `"Pick me!"` ten
   times. **It is possible to simply call `super` multiple times in a method**.
+
+https://github.com/G3o-R/phase-3-ruby-oo-inheritance-super-lab
